@@ -19,9 +19,6 @@
   },
   "homepage": "https://github.com/advait-soni/voice-pipeline#readme",
   "dependencies": {
-    "@livekit/agents": "^1.0.15",
-    "@livekit/agents-plugin-google": "^1.0.15",
-    "@livekit/noise-cancellation-node": "^0.1.9",
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
   }
